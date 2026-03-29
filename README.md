@@ -13,7 +13,27 @@ lendo ou jogando.
 </p>
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker" width="250">
-        <img alt="" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker&theme=light" width="250">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=java" width="40">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=spring" width="40">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=postgres" width="40">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=mysql" width="40">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=git" width="40">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=light" width="40">
+        <img alt="" src="https://skillicons.dev/icons?i=docker" width="40">
     </picture>
 </p>
