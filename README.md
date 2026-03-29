@@ -12,7 +12,8 @@ lendo ou jogando.
     <b>Tecnologias que uso</b>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker" />
-  </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker" width="250">
+        <img alt="" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,docker&theme=light" width="250">
+    </picture>
 </p>
