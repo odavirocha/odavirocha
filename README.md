@@ -42,6 +42,11 @@ lendo ou jogando. Mantenho uma consistência de estudos, teóricos e/ou prático
     </picture>
 </p>
 
+<h2></h2>
+<p align="center"> 
+    <img align="top" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="23">
+    <b>Meus perfis</b>
+</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/odavirocha/">
         <picture>
