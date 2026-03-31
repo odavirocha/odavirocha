@@ -22,7 +22,7 @@
 <p align="center">
 Sou desenvolvedor <i><b>backend</b></i> com foco em <i><b>Java</b></i> e <i><b>Spring Boot</b></i>, atualmente estou no primeiro ano de
 <i><b>Engenharia de Software</b></i>. Quando não estou programando, você pode me encontrar estudando,
-lendo ou jogando.
+lendo ou jogando. Mantenho uma consistência de estudos, teóricos e/ou práticos.
 </p>
 
 
