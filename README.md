@@ -25,28 +25,28 @@
         <td width="35%">
             <div align="center">
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=java" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=38294&format=png&color=FFFFFF" width="40">
+                    <img alt="Java" src="https://img.icons8.com/?size=100&id=38294&format=png&color=000000" width="40">
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=spring" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40">
+                    <img alt="Spring Boot" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40">
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=postgres" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=36440&format=png&color=FFFFFF" width="40">
+                    <img alt="PostgreSQL" src="https://img.icons8.com/?size=100&id=36440&format=png&color=000000" width="40">
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=mysql" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=f34HG4w9RjQk&format=png&color=FFFFFF" width="40">
+                    <img alt="MySQL" src="https://img.icons8.com/?size=100&id=f34HG4w9RjQk&format=png&color=000000" width="40">
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=git" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=38389&format=png&color=FFFFFF" width="40">
+                    <img alt="Git" src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" width="40">
                 </picture>
                 <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=light" width="40">
-                    <img alt="" src="https://skillicons.dev/icons?i=docker" width="40">
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=IZ5wU2nUYyYs&format=png&color=FFFFFF" width="40">
+                    <img alt="Docker" src="https://img.icons8.com/?size=100&id=IZ5wU2nUYyYs&format=png&color=000000" width="40">
                 </picture>
             </div>
         </td>
