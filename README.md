@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img align="top" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="😃" width="33">
+    <img align="top" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f919_1f3fb/512.gif" alt="🤙" width="33">
     <b>Oi! prazer, Davi.</b>
 </h2>
 
